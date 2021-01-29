@@ -1,0 +1,14 @@
+Requirements "Pete Buttigieg"
+[] Een header met daarin het Pete2020 logo en de titel van de pagina 
+[] een body: tekst met daarnaast foto's
+[] een footer met info over en contactinformatie van de maker van de site
+[] een homepage met drie subsites:
+    - Biografie
+    - 2020 Primary
+    - Contact
+[] navigatie op elke pagina
+    - voor mobiel: in navigatiebar onder de tekst
+    - voor desktop: in blok links naast de tekst
+[] Links naar andere relevante websites in de tekst.
+[] kleurenschema en font van officiële Pete2020 design toolkit
+[] Video op de 2020 Primary pagina
